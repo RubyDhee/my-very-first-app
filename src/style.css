@@ -17,16 +17,7 @@ h2 {
   right: 400px;
   font-size: 84px;
 }
-.card .forecast {
-  background: #f1f1f1;
-}
+
 .col-6 {
   font-weight: bold;
-}
-.col-2 {
-  text-align: center;
-  border-radius: 5px;
-}
-.weather-emoji {
-  font-size: 40px;
 }
